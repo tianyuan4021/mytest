@@ -1,0 +1,70 @@
+/*
+YUI 3.4.1 (build 4118)
+Copyright 2011 Yahoo! Inc. All rights reserved.
+Licensed under the BSD License.
+http://yuilibrary.com/license/
+*/
+html{color:#000;background:#FFF}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,i{margin:0;padding:0}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0;padding:0;margin:0}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+q:before,q:after{content:''}
+abbr,acronym{border:0;font-variant:normal}
+sup{vertical-align:text-top}
+sub{vertical-align:text-bottom}
+input,textarea,select{font-size:inherit;font-weight:inherit;font-family: "微软雅黑"}
+input,textarea,select{*font-size:100%;outline:0}
+legend{color:#000}
+img{
+    display: inherit;
+}
+.lt{
+	float: left;
+}
+.rt{
+	float: right;
+}
+.f12{
+    font-size: 12px;
+}
+.f14{
+    font-size: 14px;
+}
+.f18{
+    font-size: 18px;
+    line-height: 18px;
+}
+.f20{
+    font-size: 20px;
+    line-height: 20px;
+}
+.f22{
+    font-size: 22px;
+}
+.f24{
+    font-size: 24px;
+}
+.c_333{
+    color: #333;
+}
+.clear{
+	clear: both;
+}
+.hide{
+	display: none!important;
+}
+.show{
+	display: block!important;
+}
+body,input{
+	 -webkit-text-size-adjust:none;
+}
+a{text-decoration:none; color: #333;}
+a:focus, a:visited{ outline:none;}
+.clearfix:before, .clearfix:after { content: ""; display: table; line-height: 0;}
+.clearfix:after { clear: both;}
+.clearfix{ clear:both;}
